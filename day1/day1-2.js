@@ -10,8 +10,9 @@ fs.readFile('input.txt', 'utf-8', (err, input) => {
             sup++
         }
 
-        console.log(sup);
+        
     }
+    console.log(sup);
     
   })
 
